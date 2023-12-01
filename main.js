@@ -475,7 +475,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 const environment = {
   production: false,
-  apiUrl: 'http://176.231.79.195:3000/getData'
+  apiUrl: 'http://176.228.65.39:3000/getData'
 };
 
 /***/ }),
